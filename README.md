@@ -2,6 +2,10 @@
 
 ## Slider
 
-<img src="https://media0.giphy.com/media/c3TaUmpps5AN1ctN0i/giphy.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="100%"/>
+### Horizontal
 
-<img src="https://media0.giphy.com/media/c3TaUmpps5AN1ctN0i/giphy.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="100%"/>
+<img src="https://media2.giphy.com/media/FsBB7Z5u9BAF8HWG7U/giphy.gif?cid=790b76119ed76c49bfa9c7fe72a3c241d5cb1072dc267576&rid=giphy.gif&ct=g" data-canonical-src="https://media3.giphy.com/media/jafKB9sgOxAGwJiG5C/giphy.gif?cid=790b7611e5453321767aca0125f312809feca2740e5d993a&rid=giphy.gif&ct=g" width="100%"/>
+
+### Vertical
+
+<img src="https://media3.giphy.com/media/jafKB9sgOxAGwJiG5C/giphy.gif?cid=790b7611e5453321767aca0125f312809feca2740e5d993a&rid=giphy.gif&ct=g" data-canonical-src="https://media3.giphy.com/media/jafKB9sgOxAGwJiG5C/giphy.gif?cid=790b7611e5453321767aca0125f312809feca2740e5d993a&rid=giphy.gif&ct=g" width="100%"/>
