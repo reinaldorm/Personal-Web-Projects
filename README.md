@@ -8,7 +8,7 @@ Projeto feito totalmente do zero utilizando CSS & Javascript no código e Figma 
 
 #### Horizontal
 
-<img src="https://s1.gifyu.com/images/2022-10-17-07-35-21.gif&ct=g" data-canonical-src="https://s1.gifyu.com/images/2022-10-17-07-35-21.gif&ct=g"/>
+<img src="https://s1.gifyu.com/images/2022-10-17-07-35-21.gif" data-canonical-src="https://s1.gifyu.com/images/2022-10-17-07-35-21.gif"/>
 
 #### Vertical
 
